@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+razorpay 
+sqlalchemy 
+cx_Oracle 
+python-dotenv
